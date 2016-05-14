@@ -1,0 +1,565 @@
+# depslib dependency file v1.0
+1457635761 source:c:\users\krasen\desktop\krasen\st\surfacetension\main.cpp
+	<cstdlib>
+	<math.h>
+	<GL/glfw.h>
+	"okglib.h"
+	"st_library.h"
+	<iostream>
+	<fstream>
+	<list>
+	<string>
+	<windows.h>
+
+1457628577 c:\users\krasen\desktop\krasen\st\surfacetension\okglib.h
+
+1457634447 c:\users\krasen\desktop\krasen\st\surfacetension\st_library.cpp
+	"st_library.h"
+
+1457634632 c:\users\krasen\desktop\krasen\st\surfacetension\st_library.h
+	<iostream>
+	<fstream>
+	<vector>
+	<cmath>
+	<iomanip>
+
+1457628602 source:c:\users\krasen\desktop\krasen\st\surfacetension\okglib.cpp
+	<cstdlib>
+	<math.h>
+	<GL/glfw.h>
+	"okglib.h"
+
+1457634447 source:c:\users\krasen\desktop\krasen\st\surfacetension\st_library.cpp
+	"st_library.h"
+
+1458247563 source:d:\math\Семестър 4\ПММРП\surfacetension\main.cpp
+	<cstdlib>
+	<math.h>
+	<GL/glfw.h>
+	"okglib.h"
+	"st_library.h"
+	"matrices_lib.h"
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<windows.h>
+
+1457600436 d:\math\Семестър 4\ПММРП\surfacetension\okglib.h
+
+1457988263 d:\math\Семестър 4\ПММРП\surfacetension\st_library.h
+	<iostream>
+	<fstream>
+	<vector>
+	<cmath>
+	<iomanip>
+
+1457600436 source:d:\math\Семестър 4\ПММРП\surfacetension\okglib.cpp
+	<cstdlib>
+	<math.h>
+	<GL/glfw.h>
+	"okglib.h"
+
+1458247521 source:d:\math\Семестър 4\ПММРП\surfacetension\st_library.cpp
+	"st_library.h"
+	"matrices_lib.h"
+
+1457902261 d:\math\Семестър 4\ПММРП\surfacetension\matrices_lib.h
+	<iostream>
+	<vector>
+	<cmath>
+
+1457948256 source:d:\math\Семестър 4\ПММРП\surfacetension\matrices_lib.cpp
+	"matrices_lib.h"
+
+1457948256 source:d:\math\Семестър 4\surfacetension\matrices_lib.cpp
+	"matrices_lib.h"
+
+1457902261 d:\math\Семестър 4\surfacetension\matrices_lib.h
+	<iostream>
+	<vector>
+	<cmath>
+
+1457600436 source:d:\math\Семестър 4\surfacetension\okglib.cpp
+	<cstdlib>
+	<math.h>
+	<GL/glfw.h>
+	"okglib.h"
+
+1457600436 d:\math\Семестър 4\surfacetension\okglib.h
+
+1458426913 source:d:\math\Семестър 4\surfacetension\st_library.cpp
+	"st_library.h"
+	"matrices_lib.h"
+
+1458344568 d:\math\Семестър 4\surfacetension\st_library.h
+	<iostream>
+	<fstream>
+	<vector>
+	<cmath>
+	<iomanip>
+
+1458426571 source:d:\math\Семестър 4\surfacetension\main.cpp
+	<cstdlib>
+	<math.h>
+	<GL/glfw.h>
+	"okglib.h"
+	"st_library.h"
+	"matrices_lib.h"
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<windows.h>
+
+1457948258 source:c:\users\krasen\desktop\krasen\st\surfacetension 1.4\matrices_lib.cpp
+	"matrices_lib.h"
+
+1457902262 c:\users\krasen\desktop\krasen\st\surfacetension 1.4\matrices_lib.h
+	<iostream>
+	<vector>
+	<cmath>
+
+1457600436 source:c:\users\krasen\desktop\krasen\st\surfacetension 1.4\okglib.cpp
+	<cstdlib>
+	<math.h>
+	<GL/glfw.h>
+	"okglib.h"
+
+1457600436 c:\users\krasen\desktop\krasen\st\surfacetension 1.4\okglib.h
+
+1458841119 source:c:\users\krasen\desktop\krasen\st\surfacetension 1.4\st_library.cpp
+	"st_library.h"
+	"matrices_lib.h"
+
+1458838065 c:\users\krasen\desktop\krasen\st\surfacetension 1.4\st_library.h
+	<iostream>
+	<fstream>
+	<vector>
+	<cmath>
+	<iomanip>
+
+1458841269 source:c:\users\krasen\desktop\krasen\st\surfacetension 1.4\main.cpp
+	<cstdlib>
+	<math.h>
+	<GL/glfw.h>
+	"okglib.h"
+	"st_library.h"
+	"matrices_lib.h"
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<windows.h>
+
+1459108127 source:d:\math\Семестър 4\ПММРП\surfacetension_1.4-2016-03-26\surfacetension 1.4\main.cpp
+	<cstdlib>
+	<math.h>
+	<GL/glfw.h>
+	"okglib.h"
+	"st_library.h"
+	"matrices_lib.h"
+	"edgeDetectionPendantDrop.h"
+	"edgeDetectionRotatedDrop.h"
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<windows.h>
+
+1458812602 d:\math\Семестър 4\ПММРП\surfacetension_1.4-2016-03-26\surfacetension 1.4\okglib.h
+
+1458812602 d:\math\Семестър 4\ПММРП\surfacetension_1.4-2016-03-26\surfacetension 1.4\st_library.h
+	<iostream>
+	<fstream>
+	<vector>
+	<cmath>
+	<iomanip>
+
+1458812602 d:\math\Семестър 4\ПММРП\surfacetension_1.4-2016-03-26\surfacetension 1.4\matrices_lib.h
+	<iostream>
+	<vector>
+	<cmath>
+
+1458812602 source:d:\math\Семестър 4\ПММРП\surfacetension_1.4-2016-03-26\surfacetension 1.4\matrices_lib.cpp
+	"matrices_lib.h"
+
+1458812602 source:d:\math\Семестър 4\ПММРП\surfacetension_1.4-2016-03-26\surfacetension 1.4\okglib.cpp
+	<cstdlib>
+	<math.h>
+	<GL/glfw.h>
+	"okglib.h"
+
+1459107976 source:d:\math\Семестър 4\ПММРП\surfacetension_1.4-2016-03-26\surfacetension 1.4\st_library.cpp
+	"st_library.h"
+	"matrices_lib.h"
+	"edgeDetectionPendantDrop.h"
+	"edgeDetectionRotatedDrop.h"
+
+1459043724 source:d:\math\Семестър 4\ПММРП\surfacetension_1.4-2016-03-26\surfacetension 1.4\edgedetectionpendantdrop.cpp
+	"edgeDetectionPendantDrop.h"
+	<fstream>
+	<cmath>
+
+1459043724 d:\math\Семестър 4\ПММРП\surfacetension_1.4-2016-03-26\surfacetension 1.4\edgedetectionpendantdrop.h
+	<string>
+	<iostream>
+	<vector>
+	"bitmap\\bitmap_image.hpp"
+	"st_library.h"
+
+1459043728 d:\math\Семестър 4\ПММРП\surfacetension_1.4-2016-03-26\surfacetension 1.4\bitmap\\bitmap_image.hpp
+	<algorithm>
+	<cmath>
+	<cstdlib>
+	<fstream>
+	<iostream>
+	<iterator>
+	<limits>
+	<string>
+
+1459043724 source:d:\math\Семестър 4\ПММРП\surfacetension_1.4-2016-03-26\surfacetension 1.4\edgedetectionrotateddrop.cpp
+	"edgeDetectionRotatedDrop.h"
+	<fstream>
+
+1459043726 d:\math\Семестър 4\ПММРП\surfacetension_1.4-2016-03-26\surfacetension 1.4\edgedetectionrotateddrop.h
+	<string>
+	<iostream>
+	<vector>
+	"bitmap\\bitmap_image.hpp"
+	"st_library.h"
+
+1459076342 source:c:\users\krasen\desktop\krasen\st\surfacetension_1.4.5-2016-03-27\surfacetension 1.4.5\edgedetectionpendantdrop.cpp
+	"edgeDetectionPendantDrop.h"
+	<fstream>
+	<cmath>
+
+1460043863 c:\users\krasen\desktop\krasen\st\surfacetension_1.4.5-2016-03-27\surfacetension 1.4.5\edgedetectionpendantdrop.h
+	<string>
+	<iostream>
+	<vector>
+	"st_library.h"
+
+1459076344 c:\users\krasen\desktop\krasen\st\surfacetension_1.4.5-2016-03-27\surfacetension 1.4.5\bitmap\\bitmap_image.hpp
+	<algorithm>
+	<cmath>
+	<cstdlib>
+	<fstream>
+	<iostream>
+	<iterator>
+	<limits>
+	<string>
+
+1460043958 c:\users\krasen\desktop\krasen\st\surfacetension_1.4.5-2016-03-27\surfacetension 1.4.5\st_library.h
+	<iostream>
+	<fstream>
+	<vector>
+	<cmath>
+	<iomanip>
+	"bitmap\\bitmap_image.hpp"
+
+1459076342 source:c:\users\krasen\desktop\krasen\st\surfacetension_1.4.5-2016-03-27\surfacetension 1.4.5\edgedetectionrotateddrop.cpp
+	"edgeDetectionRotatedDrop.h"
+	<fstream>
+
+1460043877 c:\users\krasen\desktop\krasen\st\surfacetension_1.4.5-2016-03-27\surfacetension 1.4.5\edgedetectionrotateddrop.h
+	<string>
+	<iostream>
+	<vector>
+	"st_library.h"
+
+1460071861 source:c:\users\krasen\desktop\krasen\st\surfacetension_1.4.5-2016-03-27\surfacetension 1.4.5\main.cpp
+	<cstdlib>
+	<math.h>
+	<GL/glfw.h>
+	"okglib.h"
+	"st_library.h"
+	"matrices_lib.h"
+	"edgeDetectionPendantDrop.h"
+	"edgeDetectionRotatedDrop.h"
+	"smoother.h"
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<windows.h>
+
+1459076342 c:\users\krasen\desktop\krasen\st\surfacetension_1.4.5-2016-03-27\surfacetension 1.4.5\okglib.h
+
+1459076342 c:\users\krasen\desktop\krasen\st\surfacetension_1.4.5-2016-03-27\surfacetension 1.4.5\matrices_lib.h
+	<iostream>
+	<vector>
+	<cmath>
+
+1459076342 source:c:\users\krasen\desktop\krasen\st\surfacetension_1.4.5-2016-03-27\surfacetension 1.4.5\matrices_lib.cpp
+	"matrices_lib.h"
+
+1459076342 source:c:\users\krasen\desktop\krasen\st\surfacetension_1.4.5-2016-03-27\surfacetension 1.4.5\okglib.cpp
+	<cstdlib>
+	<math.h>
+	<GL/glfw.h>
+	"okglib.h"
+
+1460044180 source:c:\users\krasen\desktop\krasen\st\surfacetension_1.4.5-2016-03-27\surfacetension 1.4.5\st_library.cpp
+	"st_library.h"
+	"matrices_lib.h"
+	"edgeDetectionPendantDrop.h"
+	"edgeDetectionRotatedDrop.h"
+
+1460072012 source:c:\users\krasen\desktop\krasen\st\surfacetension_1.4.5-2016-03-27\surfacetension 1.4.5\smoother.cpp
+	"smoother.h"
+
+1460052948 c:\users\krasen\desktop\krasen\st\surfacetension_1.4.5-2016-03-27\surfacetension 1.4.5\smoother.h
+	"st_library.h"
+
+1459076342 source:c:\users\krasen\desktop\krasen\st\surfacetension_1.5\surfacetension 1.4.5\edgedetectionpendantdrop.cpp
+	"edgeDetectionPendantDrop.h"
+	<fstream>
+	<cmath>
+
+1460043863 c:\users\krasen\desktop\krasen\st\surfacetension_1.5\surfacetension 1.4.5\edgedetectionpendantdrop.h
+	<string>
+	<iostream>
+	<vector>
+	"st_library.h"
+
+1460043958 c:\users\krasen\desktop\krasen\st\surfacetension_1.5\surfacetension 1.4.5\st_library.h
+	<iostream>
+	<fstream>
+	<vector>
+	<cmath>
+	<iomanip>
+	"bitmap\\bitmap_image.hpp"
+
+1459076344 c:\users\krasen\desktop\krasen\st\surfacetension_1.5\surfacetension 1.4.5\bitmap\\bitmap_image.hpp
+	<algorithm>
+	<cmath>
+	<cstdlib>
+	<fstream>
+	<iostream>
+	<iterator>
+	<limits>
+	<string>
+
+1459076342 source:c:\users\krasen\desktop\krasen\st\surfacetension_1.5\surfacetension 1.4.5\edgedetectionrotateddrop.cpp
+	"edgeDetectionRotatedDrop.h"
+	<fstream>
+
+1460043877 c:\users\krasen\desktop\krasen\st\surfacetension_1.5\surfacetension 1.4.5\edgedetectionrotateddrop.h
+	<string>
+	<iostream>
+	<vector>
+	"st_library.h"
+
+1459076342 source:c:\users\krasen\desktop\krasen\st\surfacetension_1.5\surfacetension 1.4.5\matrices_lib.cpp
+	"matrices_lib.h"
+
+1459076342 c:\users\krasen\desktop\krasen\st\surfacetension_1.5\surfacetension 1.4.5\matrices_lib.h
+	<iostream>
+	<vector>
+	<cmath>
+
+1459076342 source:c:\users\krasen\desktop\krasen\st\surfacetension_1.5\surfacetension 1.4.5\okglib.cpp
+	<cstdlib>
+	<math.h>
+	<GL/glfw.h>
+	"okglib.h"
+
+1459076342 c:\users\krasen\desktop\krasen\st\surfacetension_1.5\surfacetension 1.4.5\okglib.h
+
+1460656635 source:c:\users\krasen\desktop\krasen\st\surfacetension_1.5\surfacetension 1.4.5\smoother.cpp
+	"smoother.h"
+
+1460052948 c:\users\krasen\desktop\krasen\st\surfacetension_1.5\surfacetension 1.4.5\smoother.h
+	"st_library.h"
+
+1460653265 source:c:\users\krasen\desktop\krasen\st\surfacetension_1.5\surfacetension 1.4.5\st_library.cpp
+	"st_library.h"
+	"matrices_lib.h"
+	"edgeDetectionPendantDrop.h"
+	"edgeDetectionRotatedDrop.h"
+
+1460656607 source:c:\users\krasen\desktop\krasen\st\surfacetension_1.5\surfacetension 1.4.5\main.cpp
+	<cstdlib>
+	<math.h>
+	<GL/glfw.h>
+	"okglib.h"
+	"st_library.h"
+	"matrices_lib.h"
+	"edgeDetectionPendantDrop.h"
+	"edgeDetectionRotatedDrop.h"
+	"smoother.h"
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<windows.h>
+
+1460620886 source:c:\users\krasen\desktop\krasen\st\surfacetension_1.5.1-2016-05-12\surfacetension 1.5.1\edgedetectionpendantdrop.cpp
+	"edgeDetectionPendantDrop.h"
+	<fstream>
+	<cmath>
+
+1460620886 c:\users\krasen\desktop\krasen\st\surfacetension_1.5.1-2016-05-12\surfacetension 1.5.1\edgedetectionpendantdrop.h
+	<string>
+	<iostream>
+	<vector>
+	"st_library.h"
+
+1463072479 c:\users\krasen\desktop\krasen\st\surfacetension_1.5.1-2016-05-12\surfacetension 1.5.1\st_library.h
+	<iostream>
+	<fstream>
+	<vector>
+	<cmath>
+	<iomanip>
+	"bitmap\\bitmap_image.hpp"
+
+1460620894 c:\users\krasen\desktop\krasen\st\surfacetension_1.5.1-2016-05-12\surfacetension 1.5.1\bitmap\\bitmap_image.hpp
+	<algorithm>
+	<cmath>
+	<cstdlib>
+	<fstream>
+	<iostream>
+	<iterator>
+	<limits>
+	<string>
+
+1460620886 source:c:\users\krasen\desktop\krasen\st\surfacetension_1.5.1-2016-05-12\surfacetension 1.5.1\edgedetectionrotateddrop.cpp
+	"edgeDetectionRotatedDrop.h"
+	<fstream>
+
+1460620886 c:\users\krasen\desktop\krasen\st\surfacetension_1.5.1-2016-05-12\surfacetension 1.5.1\edgedetectionrotateddrop.h
+	<string>
+	<iostream>
+	<vector>
+	"st_library.h"
+
+1463074356 source:c:\users\krasen\desktop\krasen\st\surfacetension_1.5.1-2016-05-12\surfacetension 1.5.1\main.cpp
+	<cstdlib>
+	<math.h>
+	<GL/glfw.h>
+	"okglib.h"
+	"st_library.h"
+	"matrices_lib.h"
+	"edgeDetectionPendantDrop.h"
+	"edgeDetectionRotatedDrop.h"
+	"smoother.h"
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<windows.h>
+
+1460620886 c:\users\krasen\desktop\krasen\st\surfacetension_1.5.1-2016-05-12\surfacetension 1.5.1\okglib.h
+
+1463065487 c:\users\krasen\desktop\krasen\st\surfacetension_1.5.1-2016-05-12\surfacetension 1.5.1\matrices_lib.h
+	<iostream>
+	<vector>
+	<cmath>
+	"st_library.h"
+
+1463070722 c:\users\krasen\desktop\krasen\st\surfacetension_1.5.1-2016-05-12\surfacetension 1.5.1\smoother.h
+	"st_library.h"
+
+1463065454 source:c:\users\krasen\desktop\krasen\st\surfacetension_1.5.1-2016-05-12\surfacetension 1.5.1\matrices_lib.cpp
+	"matrices_lib.h"
+
+1460620886 source:c:\users\krasen\desktop\krasen\st\surfacetension_1.5.1-2016-05-12\surfacetension 1.5.1\okglib.cpp
+	<cstdlib>
+	<math.h>
+	<GL/glfw.h>
+	"okglib.h"
+
+1463070702 source:c:\users\krasen\desktop\krasen\st\surfacetension_1.5.1-2016-05-12\surfacetension 1.5.1\smoother.cpp
+	"smoother.h"
+
+1463074116 source:c:\users\krasen\desktop\krasen\st\surfacetension_1.5.1-2016-05-12\surfacetension 1.5.1\st_library.cpp
+	"st_library.h"
+	"matrices_lib.h"
+	"edgeDetectionPendantDrop.h"
+	"edgeDetectionRotatedDrop.h"
+
+1463123100 source:d:\math\Семестър 4\ПММРП\surfacetension 1.5.2\edgedetectionpendantdrop.cpp
+	"edgeDetectionPendantDrop.h"
+	<fstream>
+	<cmath>
+
+1463123100 d:\math\Семестър 4\ПММРП\surfacetension 1.5.2\edgedetectionpendantdrop.h
+	<string>
+	<iostream>
+	<vector>
+	"st_library.h"
+
+1463173617 d:\math\Семестър 4\ПММРП\surfacetension 1.5.2\st_library.h
+	<iostream>
+	<fstream>
+	<vector>
+	<cmath>
+	<iomanip>
+	"bitmap\\bitmap_image.hpp"
+
+1463123104 d:\math\Семестър 4\ПММРП\surfacetension 1.5.2\bitmap\\bitmap_image.hpp
+	<algorithm>
+	<cmath>
+	<cstdlib>
+	<fstream>
+	<iostream>
+	<iterator>
+	<limits>
+	<string>
+
+1463123100 source:d:\math\Семестър 4\ПММРП\surfacetension 1.5.2\edgedetectionrotateddrop.cpp
+	"edgeDetectionRotatedDrop.h"
+	<fstream>
+
+1463123100 d:\math\Семестър 4\ПММРП\surfacetension 1.5.2\edgedetectionrotateddrop.h
+	<string>
+	<iostream>
+	<vector>
+	"st_library.h"
+
+1463210976 source:d:\math\Семестър 4\ПММРП\surfacetension 1.5.2\main.cpp
+	<cstdlib>
+	<math.h>
+	<GL/glfw.h>
+	"okglib.h"
+	"st_library.h"
+	"matrices_lib.h"
+	"edgeDetectionPendantDrop.h"
+	"edgeDetectionRotatedDrop.h"
+	"smoother.h"
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<windows.h>
+
+1463123100 d:\math\Семестър 4\ПММРП\surfacetension 1.5.2\okglib.h
+
+1463123100 d:\math\Семестър 4\ПММРП\surfacetension 1.5.2\matrices_lib.h
+	<iostream>
+	<vector>
+	<cmath>
+	"st_library.h"
+
+1463123104 d:\math\Семестър 4\ПММРП\surfacetension 1.5.2\smoother.h
+	"st_library.h"
+
+1463123100 source:d:\math\Семестър 4\ПММРП\surfacetension 1.5.2\matrices_lib.cpp
+	"matrices_lib.h"
+
+1463174203 source:d:\math\Семестър 4\ПММРП\surfacetension 1.5.2\okglib.cpp
+	<cstdlib>
+	<math.h>
+	<GL/glfw.h>
+	"okglib.h"
+
+1463123102 source:d:\math\Семестър 4\ПММРП\surfacetension 1.5.2\smoother.cpp
+	"smoother.h"
+
+1463176501 source:d:\math\Семестър 4\ПММРП\surfacetension 1.5.2\st_library.cpp
+	"st_library.h"
+	"matrices_lib.h"
+	"edgeDetectionPendantDrop.h"
+	"edgeDetectionRotatedDrop.h"
+
